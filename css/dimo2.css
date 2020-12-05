@@ -1,0 +1,123 @@
+*{
+    padding: 0px;
+    margin: 0px ;
+}
+/* 主体 */
+#aaa{
+    width: 100%;
+    height: 781px;
+    float: left;
+}
+/* 头部 */
+#bbb{
+    width: 100%;
+    height: 62px;
+    float: left;
+}
+/* 头部图片 */
+#img{
+    width: 170px;
+    height: 38px;
+    float: left;
+}
+/* 头部搜索 */
+#sou{
+    width: 442px;
+    height: 21px;
+    float: right;
+    margin-right: 14px;
+}
+/* 导航栏 */
+#ccc{
+    width: 100%;
+    height: 40px;
+    background-color: #c0163a;
+    float: left;
+}
+/* 导航字体 */
+.zi{
+    list-style: none ;
+    float: left;
+    font-size: 15px;
+    color: #fdfffa;
+    line-height:40px;
+    margin-left: 100px;
+}
+/* 中间图片 */
+#ddd{
+    width: 100%;
+    height: 158px;
+    float: left;
+    margin-top: 10px;
+}
+/* 图片宽度 */
+#abc{
+    width:  100%;
+    float: left;
+    height: 158px;
+}
+/* 新闻内容主体 */
+#eee{
+    width: 100%;
+    height: 354px;
+    float: left;
+    margin-top: 23px;
+}
+/* 左侧 */
+#left{
+    width: 362px;
+    height: 356px;
+    float: left;
+    margin-left: 280px;
+}
+.biao{
+    width: 362px;
+    height: 23px;
+    font-size: 20px;
+    color: black;
+    float: left;
+    border-bottom: 2px solid blue;
+}
+/* p标 */
+.ooo{
+    font-size: 16px;
+    color: blue;
+    float: left;
+    margin-top: 7px;
+    margin-left: 10px;
+}
+/* 右侧开始 */
+#right{
+    width: 467px;
+    height: 354px;
+    float: left;
+    margin-left: 150px;
+}
+/* 右侧字体 */
+.sha{
+    float: left;
+    font-size: 20px;
+    color: black;
+    float: left;
+    margin-top: 7px;
+    margin-left: 14px;
+}
+/* 表格 */
+#tab{
+    width: 952px;
+    height: 102px;
+    float: left;
+    margin-left: 300px;
+    border:0px;
+    border: 1px solid grey;
+    border-collapse: collapse;
+    text-align: center;
+}
+/* 第一个字体烟色  */
+#vvvv{
+    color: red;
+}
+/* 超链接 */
+#aaaaaa{
+    text-decoration:none;
+}

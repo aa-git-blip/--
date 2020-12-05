@@ -1,0 +1,175 @@
+/* 清除所有边距 */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* 主体 */
+#niu{
+    width: 900px;
+    height: 981px;
+    margin: 0px auto;
+}
+/* 图片 */
+#top{
+    width: 900px;
+    height: 100px;
+    float: left;
+    border-bottom: 1px solid grey;
+}
+/* 导航栏 */
+#zaozi{
+    width: 900px;
+    height: 26px;
+    float: left;
+}
+.she{
+    float: left;
+    font-size: 16px;
+    color: black;
+    margin-left: 60px;
+    line-height: 26px;
+}
+/* 图片 */
+#luotuo{
+    width: 900px;
+    height: 220px;
+    float: left;
+}
+/* 标题 */
+#bt{
+    width: 900px;
+    height: 69px;
+    float: left;
+}
+/* 表单 */
+#table{
+    width: 900px;
+    height: 566px;
+    float: left;
+}
+#table{
+    width: 215px;
+    height: 59px;
+    float: left;
+}
+/* 字体 */
+#maozi{
+    line-height: 69px;
+    text-align: center;
+    color: #003264  ;
+}
+/* 姓名 */
+#asd{
+    font-size: 15px;
+    color: #003264;
+    margin-left: 10px;
+    float: left;
+}
+#sao{
+    margin-left: 5px;
+    float: left;
+}
+/* 密码 */
+#pwd{
+    font-size: 15px;
+    color: #003264;
+    margin-left: 10px;
+    float: left;
+    margin-top: 15px;
+}
+#pad{
+    margin-left: 5px;
+    float: left;
+    margin-top: 15px;
+}
+/* 性别 */
+.bie{
+    width: 152px;
+    height: 18px;
+    float: left;
+}
+#bie{
+    font-size: 15px;
+    color: #003264;
+    margin-left: 10px;
+    float: left;
+    margin-top: 15px;
+}
+#xing{
+    margin-left: 5px;
+    float: left;
+    margin-top: 15px;
+}
+#xue{
+    width: 355px;
+    height: 18px;
+    float: left;
+    margin-top: 15px;
+
+}
+/* 籍贯 */
+#jg{
+    width: 201px;
+    height: 21px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+#g{
+    font-size: 15px;
+    color: #003264;
+}
+#fu{
+    width: 610px;
+    height: 19px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+#xuan{
+    font-size: 15px;
+    color: #003264;
+}
+#wen{
+    width: 622px;
+    height: 201px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+#jj{
+    font-size: 15px;
+    color: #003264;
+}
+#tx{
+    width: 414px;
+    height: 28px;
+    float: left;
+    margin-left: 10px;
+}
+#tou{
+    font-size: 15px;
+    color: #003264;
+    float: left;
+}
+#ss{
+    border:0px;
+    float: left;
+    border:1px solid #003264;
+}
+#ll{
+    border: 0px;
+    float: left;
+    border:1px solid #003264;
+}
+#an{
+    width: 172px;
+    height: 22px;
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+#ti{
+    border: 0px;
+    border:1px solid #003264;
+}
