@@ -1,97 +1,105 @@
 /* 清除默认边距和默认样式 */
 *{
-    margin: 0;
-    padding: 0;
-    list-style: none;
+    margin: 0;   /* 清除默认外边距 */
+    padding: 0;  /* 清除默认内填充 */
+    list-style: none;   /* 清除样式表默认样式 */
 }
 /* 主体 */
 #a{
-    width: 240px;
-    height: 458px;
+    width: 240px;   /* 设置主体宽 */
+    height: 458px;  /* 设置主体的高 */
     /* background-color: antiquewhite; */
-    margin: 50px auto;
-    border: 1px solid #e0e0e0;
+    margin: 50px auto;  /* 给外边距    让主体居中且让主体离顶部50px */
+    border: 1px solid #e0e0e0;    /* 主体边框 */
 }
 /* 顶图 */
 #img{
-    width: 240px;
-    height: 131px;
-    border-bottom: 1px solid #e0e0e0;
-    float: left;
+    width: 240px;   /* 图片div的宽 */
+    height: 131px;  /* 图片div的高 */
+    border-bottom: 1px solid #e0e0e0;  /* 图片的下边框 */
+    float: left;   /* 左浮动固定 */
 }
-/* 移动图片位置 */
+/* 移动图片位置   借助宽高调动图片位置*/
 #b{
-    width: 233px;
+    width: 233px;   
     height: 122px;
-    margin-left:3px ;
+    margin-left:3px ;    /* 左边距3px */
     /* line-height: 122px; */
-    margin-top: 3px;
-    float: left;
+    margin-top: 3px;   /* 上边距3px */
+    float: left;    /* 左浮 */
 }
 /* 导航 */
 #nav{
-    width: 240px;
-    height: 30px;
-    background-color: #f3f3f3;
-    border-bottom: 1px solid #e0e0e0;
-    float: left;
+    width: 240px;  /* 宽 */
+    height: 30px;   /* 高 */
+    background-color: #f3f3f3;   /* 导航背景色 */
+    border-bottom: 1px solid #e0e0e0;   /* 导航下边框 */
+    float: left;   /* 左浮 */
 }
 /* 导航字体样式 */
 .dd{
-    line-height: 30px;
-    margin-left: 13px;
-    font-size: 13px;
+    line-height: 30px;    /* 字体行高30px */
+    margin-left: 13px;    /* 左边距13px */
+    font-size: 13px;      /* 字体大小13px */
 }
 /* 下 */
 #lower{
-    width: 240px;
+    /* 下主体宽高 */
+    width: 240px;   
     height: 150px;
     /* background-color: aqua; */
-    float: left;
+    float: left; /* 左浮固定 */
 }
 /* 设置li样式 */
 .aaa{
-    width: 219px;
-    border-bottom: 1px dashed #e0e0e0;
-    margin-left: 10px;
+    width: 219px;   /* 给li一个宽    借助宽来实现下边框 */
+    border-bottom: 1px dashed #e0e0e0;  /* 下边框 */
+    margin-left: 10px;   /* 左边距 10px*/
 }
 /* 给字体添加背景图(点) */
 p{
-    line-height: 24px;
-    font-size: 11px;
-    background-image: url(../img/dian_03.gif);
-    background-repeat: no-repeat;
-    background-position: left center;
-    padding-left: 20px;
+    line-height: 24px;    /* 字体行高 24px*/
+    font-size: 11px;     /* 字体大小11px */
+    background-image: url(../img/dian_03.gif);    /* 背景图(点) */
+    background-repeat: no-repeat;    /* 背景图不重复 */
+    background-position: left center;   /* 将背景图移到左中 */
+    padding-left: 20px;    /* 内填充将字和背景图隔开20px */
 }
 /* 底部主体 */
 #xiatu{
-    width: 240px;
+    /* 底部主体的宽高 */
+    width: 240px;  
     height: 114px;
-    float: left;
-    margin-top: 31px;
+    float: left;    /* 左浮固定 */
+    margin-top: 31px;   /* 上边距 31px*/
 }
 /* 图1,2样式 */
+/* 因为图一和图二样式一样   所以它们两个可以共用这个样式 */
 .tu1{
+    /* 图一二的边框 */
     width: 106px;
     height: 108px;
-    float: left;
-    margin-left: 8px;
+    float: left;   /* 左浮固定 */
+    margin-left: 8px;    /* 左边距8px */
     border: 1px solid #e0e0e0;
 }
 /* 设置图位置 */
+/* 移动图片位置   借助宽高调动图片位置*/
 #q{
+    /* 图一的宽高 */
     width: 89px;
     height: 81px;
     float: left;
-    margin-top: 18px;
-    margin-left: 9px;
+    margin-top: 18px; /* 上边距 18px*/
+    margin-left: 9px;   /* 左边距9px */
 }
 /* 图二边距 */
+/* 图一和图二的上边距和左边距不同  所以另起一个名字   重新定义 */
 #p{
+    /* 图二的宽高 */
     width: 100px;
     height: 102px;
-    float: left;
-    margin-top: 3px;
-    margin-left: 3px;
+    float: left;    /* 左浮固定 */
+    margin-top: 3px;   /* 上边距3px */
+    margin-left: 3px;  /* 左边距3px */
 }
