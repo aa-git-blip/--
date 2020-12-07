@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#hea{
+    width: 1200px;
+    height: 357px;
+    margin: 0 auto;
+    border: 1px solid #7f7f7f;
+    margin-top: 50px;
+}
+#der{
+    width: 1200px;
+    height: 65px;
+    background-color: #dddddd;
+    float: left;
+    border-bottom: 1px solid #7f7f7f;
+}
+#guang{
+    line-height: 65px;
+    font-size: 25px;
+    color: #292929;
+    margin-left: 15px;
+}
+#zhong{
+    width: 1200px;
+    height: 224px;
+    background-color: #ffffff;
+    float: left;
+}
+#biao{
+    width: 1200px;
+    font-size: 37px;
+    margin-top: 41px;
+    float: left;
+    margin-left: 53px;
+}
+#nei{
+    font-size: 24px;
+    margin-top: 36px;
+    float: left;
+    margin-left: 52px;
+}
+#xia{
+    width: 1200px;
+    height: 66px;
+    background-color: #dddddd;
+    float: left;
+    border-top: 1px solid #7f7f7f;
+}
+#jio{
+    line-height: 66px;
+    font-size: 26px;
+    color: #292929;
+    margin-left: 15px;
+}

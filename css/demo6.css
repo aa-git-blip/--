@@ -1,0 +1,97 @@
+/* 清除默认边距和默认样式 */
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+/* 主体 */
+#a{
+    width: 240px;
+    height: 458px;
+    /* background-color: antiquewhite; */
+    margin: 50px auto;
+    border: 1px solid #e0e0e0;
+}
+/* 顶图 */
+#img{
+    width: 240px;
+    height: 131px;
+    border-bottom: 1px solid #e0e0e0;
+    float: left;
+}
+/* 移动图片位置 */
+#b{
+    width: 233px;
+    height: 122px;
+    margin-left:3px ;
+    /* line-height: 122px; */
+    margin-top: 3px;
+    float: left;
+}
+/* 导航 */
+#nav{
+    width: 240px;
+    height: 30px;
+    background-color: #f3f3f3;
+    border-bottom: 1px solid #e0e0e0;
+    float: left;
+}
+/* 导航字体样式 */
+.dd{
+    line-height: 30px;
+    margin-left: 13px;
+    font-size: 13px;
+}
+/* 下 */
+#lower{
+    width: 240px;
+    height: 150px;
+    /* background-color: aqua; */
+    float: left;
+}
+/* 设置li样式 */
+.aaa{
+    width: 219px;
+    border-bottom: 1px dashed #e0e0e0;
+    margin-left: 10px;
+}
+/* 给字体添加背景图(点) */
+p{
+    line-height: 24px;
+    font-size: 11px;
+    background-image: url(../img/dian_03.gif);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 20px;
+}
+/* 底部主体 */
+#xiatu{
+    width: 240px;
+    height: 114px;
+    float: left;
+    margin-top: 31px;
+}
+/* 图1,2样式 */
+.tu1{
+    width: 106px;
+    height: 108px;
+    float: left;
+    margin-left: 8px;
+    border: 1px solid #e0e0e0;
+}
+/* 设置图位置 */
+#q{
+    width: 89px;
+    height: 81px;
+    float: left;
+    margin-top: 18px;
+    margin-left: 9px;
+}
+/* 图二边距 */
+#p{
+    width: 100px;
+    height: 102px;
+    float: left;
+    margin-top: 3px;
+    margin-left: 3px;
+}
