@@ -1,0 +1,39 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+/* 给主体一个宽高背景色 */
+.con{
+	min-width: 400px;
+	height: 200px;
+	background-color: red;
+}
+/* 给左边一个固定的高和宽    左浮    背景色 */
+.left{
+	width: 200px;   /* 宽 */
+	height: 200px;   /* 高 */
+	float: left;    /* 左浮 */
+	background-color: aqua;    /* 背景色 */
+	margin-left: -100%;   /* margin-left: -100%的意思是left相对于container左移container的长度 */
+}
+/* 给右边一个固定的高和宽    左浮    背景色 */
+.right{
+	width: 200px;  /* 宽 */
+	height: 200px;   /* 高 */
+	float: left;    /* 左浮固定 */
+	margin-left: -200px;   /* margin-left: -150px的意思是right相对于container左移150px。 */
+	background-color: aqua;    /* 背景色 */
+}
+/* 给外边中间边一个固定的高和宽    左浮    背景色 */
+.main{
+	width: 100%;      /* 因为要随着页面改变宽    所以要给一个百分百的宽 */
+	height: 100px;    /* 高 */
+	float: left;    /* 左浮固定 */
+	background-color: greenyellow;     /* 背景色 */
+}
+/* 中间的边距 */
+.content{
+	/*预留出位置给左右栏*/
+	margin-left: 200px;
+	margin-right: 200px;
+}
