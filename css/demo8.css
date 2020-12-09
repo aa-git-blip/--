@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#body{
+    width: 478px;
+    height: 272px;
+    margin: 50px auto;
+}
+#mao{
+    width: 478px;
+    height: 23px;
+    float: left;
+    border-bottom: 2px solid #163e83;
+}
+/* b{
+    font-size: 12px;
+} */
+#xin{
+    width: 478px;
+    height: 223px;
+    float: left;
+    margin-top: 16px;
+}
+li{
+    width: 478px;
+    float: left;
+    height: 29px;
+    border-bottom: 1px dashed #cfcfcf;
+    line-height: 29px;
+
+}
+a{
+    float: left;
+    font-size: 14px;
+    color: #292929;
+    background-image: url(../img/images/新闻列表_03.gif);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 16px;
+    margin-left: 3px;
+}
+p{
+    float: right;
+    color: #fa6230;
+    font-size: 12px;
+    margin-right: 15px;
+}
+b{
+    float: left;
+    color: #f6e0b9;
+    font-size: 10px;
+    margin-left: 140px;
+}
+span{
+    float: right;
+}

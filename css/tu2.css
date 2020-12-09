@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding:0;
+    list-style: none;
+}
+#zhu{
+    width: 344px;
+    height: 300px;
+    border: 1px solid #cccccc;
+    margin: 20px auto;
+}
+.tu1{
+    width: 151px;
+    height: 131px;
+    float: left;
+    margin-top: 12px;
+    margin-left: 8px;
+}
+#tu1{
+    width: 151px;
+    height: 116px;
+    float: left;
+}
+.ccc{
+    font-size: 12px;
+    margin-left: 22px;
+}
+.tu2{
+    width: 151px;
+    height: 131px;
+    float: left;
+    margin-top: 12px;
+    margin-left: 16px;
+}
+.tu1{
+    width: 151px;
+    height: 131px;
+    float: left;
+    margin-top: 12px;
+    margin-left: 16px;
+}

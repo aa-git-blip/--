@@ -1,0 +1,277 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+/* 主体 */
+#subject{
+    width: 990px;
+    height: 800px;
+    margin: 20px auto;
+}
+/* 左边主体 */
+#left{
+    width: 332px;
+    height: 782px;
+    float: left;
+}
+/* 二战女性 */
+#ez{
+    width: 332px;
+    height: 240px;
+    float: left;
+}
+/* 性饥渴 */
+.xj{
+    width: 332px;
+    height:120px ;
+    float: left;
+    margin-top: 20px;
+    border-bottom: 1px dashed #e6e6e6;
+}
+/* 标题 */
+#bt{
+    width: 332px;
+    font-size: 14px;
+    height: 14px;
+    float: left;
+    color: #323232;
+}
+/* 图片标题 */
+.tb{
+    width: 332px;
+    height: 82px;
+    float: left;
+    margin-top: 11px;
+}
+/* 图片 */
+.nue{
+    width: 128px;
+    height: 82px;
+    float: left;
+}
+/* 文字 */
+.yin{   
+    width: 179px;
+    font-size: 12px;
+    color: #666666;
+    float: left;
+    margin-top: 8px;
+    margin-left: 14px;
+    text-indent: 24px;
+    line-height: 19px;
+}
+/* 红字体 */
+.xiang{
+    color: red;
+}
+/* 抗争 */
+.kc{
+    width: 332px;
+    height:120px ;
+    float: left;
+    border-bottom: 1px dashed #e6e6e6;
+}
+/* 抗争标题 */
+.kangzheng{
+    width: 332px;
+    font-size: 14px;
+    height: 14px;
+    float: left;
+    color: #323232;
+    margin-top: 10px;
+}
+/* 历史 */
+#lishi{
+    width: 332px;
+    height:122px ;
+    float: left;
+    margin-top: 17px;
+}
+/* li标签 */
+#a{
+    font-size: 14px;
+    float: left;
+    line-height: 25px;
+    background-image: url(/img/images/images/dian_03.gif);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 11px;
+}
+/* 中间主体 */
+#in{
+    width: 388px;
+    height: 782px;
+    float: left;
+    margin-left: 10px;
+}
+/* 中1 */
+#in1{
+    width: 388px;
+    height: 246px;
+    float: left;
+}
+/* 红色标题 */
+#b1{
+    width: 64px;
+    height: 22px;
+    float: left;
+    border-bottom: 2px solid red;
+    color: red;
+    font-size: 14px;
+    margin-left: 2px;
+}
+/* 更多 */
+#g{
+    width: 314px;
+    height: 23px;
+    float: left;
+    border-bottom: 1px solid #e6e6e6;
+}
+#gg{
+    float: right;
+}
+/* 中间2 */
+#in2{
+    width: 378px;
+    height: 203px;
+    float: left;
+    margin-top: 18px;
+}
+/* 新闻2 */
+.wu{
+    font-size: 14px;
+    float: left;
+    background-image: url(/img/images/images/dian_03.gif);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 10px;
+    margin-left: 5px;
+    line-height: 26px;
+}
+/* 日期 */
+.ri{
+    font-size: 8px;
+    /* float: right; */
+    float: right;
+    color: red;
+    line-height: 26px;
+}
+/* 新闻3 */
+#in3{
+    width: 380px;
+    height: 344px;
+    float: left;
+    margin-top: 18px;
+}
+/* 导航 */
+#aaa{
+    width: 378px;
+    height: 25px;
+    float: left;
+    /* background-color: red; */
+    border-bottom: #e6e6e6 1px dashed;
+}
+/* zi */
+#wen{
+    width: 64px;
+    float: left;
+    font-size: 14px;
+    color: red;
+}
+#ppp{
+    float: right;
+    font-size: 12px;
+    color: #666666;
+}
+.www{
+    font-size: 14px;
+    float: left;
+    background-image: url(/img/images/images/dian_03.gif);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 10px;
+    margin-left: 5px;
+    margin-top: 16px;
+}
+.qi{
+    font-size: 8px;
+    /* float: right; */
+    float: right;
+    color: red;
+    margin-top: 16px;
+}
+/* 新闻4 */
+#in4{
+    width: 380px;
+    height: 192px;
+    float: left;
+    margin-top: 18px;
+}
+.ddd{
+    font-size: 14px;
+    float: left;
+    background-image: url(/img/images/images/dian_03.gif);
+    background-repeat: no-repeat;
+    background-position: left center;
+    padding-left: 12px;
+    margin-left: 5px;
+    margin-top: 6px;
+
+}
+.lll{
+    font-size: 8px;
+    /* float: right; */
+    float: right;
+    color: red;
+    margin-top: 6px;
+}
+/* 右边主体 */
+#right{
+    width: 238px;
+    height: 782px;
+    float: left;
+    margin-left: 17px;
+    border: 1px solid #e6e6e6;
+}
+#sss{
+    width: 236px;
+    height: 38px;
+    float: left;
+}
+#dddd{
+    font-size: 14px;
+    float: left;
+    margin-top: 12px;
+    margin-left: 7px;
+}
+#ffff{
+    float: right; 
+    margin-right: 7px;
+    font-size: 14px;
+    margin-top: 12px;
+
+}
+.tuw{
+    width: 236px;
+    height: 170px;
+    float: left;
+}
+.tttt{
+    width: 220px;
+    height: 151px;
+    float: left;
+    margin-left: 8px;
+}
+.kkkk{
+    font-size: 12px;
+    float: left;
+    margin-top: 7px;
+    margin-left: 37px;
+}
+.tull{
+    width: 236px;
+    height: 170px;
+    float: left;
+    margin-top: 13px;
+}
