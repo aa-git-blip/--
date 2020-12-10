@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+/* 主体 */
+#aaa{
+    width: 1003px;
+    height: 667px;
+    margin: 50px auto;
+}
+/* 图 */
+#bbb{
+    width: 1003px;
+    height: 53px;
+    float: left;
+    position: relative;
+}
+#ccc{
+    float: left;
+    margin-left: 29px;
+    margin-top: 3px;
+}
+#ddd{
+    width: 248px; 
+    height: 29px;
+    float: right;
+    margin-top: 23px;
+    border-bottom: 0;
+    background-color: #e2f7f2;
+}
+.eee{
+    float: left;
+    font-size: 12px;
+    color: #718480;
+    line-height: 29px;
+    margin-left: 10px;
+    margin-right: 12px;
+}
+#fff{
+    position: absolute;
+    left: 763px;
+    top: 9px;
+}
+#ggg{
+    width: 972px;
+    height:34px ;
+    background-color: #fa6a14;
+    float: left;
+    border: red 1px solid;
+    border-left: 0;
+    border-right: 0;
+    margin-left: 29px;
+}
+.hhh{
+    float: left;
+    margin-left: 16px;
+    color: #edffff;
+    margin-right: 17px;
+    font-size: 12px;
+    line-height: 34px;
+}
+#iii{
+    width: 958px;
+    height: 118px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 29px;
+    border: 1px solid #cfe8a4;
+}
+#shu{
+    width: 956px;
+    height: 360px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 29px;
+    position: relative;
+    border: 2px solid #cfe8a4;
+}
+#ding{
+    position: absolute;
+    left: -9px;
+    top: 15px;
+    /* float: left; */
+}
+#tu1{
+    width: 519px;
+    float: left;
+    height: 261px;
+    margin-top: 85px;
+    margin-left: 20px;
+}
+#ul{
+    width: 170px;
+    height: 251px;
+    /* margin-top: 8px; */
+    float: left;
+    /* margin-left: 20px; */
+    position: relative;
+}
+#tt1{
+    /* float: left; */
+    position: absolute;
+    right: 890px;
+}
+#t1{
+    float: left;
+}
+#z1{
+    width: 250px;
+    height: 251px;
+    float: left;
+}
+#a{
+    font-size: 15px;
+    color: #0071d9;
+    margin-top: 15px;
+}
+#a1{
+    margin-top: 7px;
+    font-size: 12px;
+    color: black;
+    line-height: 24px;
+}
+#a2{
+    font-size: 12px;
+    color: black;
+    line-height: 24px;
+}
+#a3{
+    font-size: 12px;
+    color: red;
+    line-height: 24px;
+}
+#a4{
+    font-size: 12px;
+    color: black;
+    line-height: 24px
+}
+#z2{
+    width: 370px;
+    height: 234px;
+    float: left;
+    margin-top: 82px;
+    margin-left: 10px;
+}
+#u2{
+    width: 100px;
+    height: 234px;
+    float: left;
+}
+#u3{
+    width: 100px;
+    height: 115px;
+    float: left;
+    position: relative;
+}
+#u4{
+    margin-top: 10px;
+}
+#u5{
+    position: absolute;
+    right: 77px;
+}
+#g1{
+    width: 100px;
+    height: 118px;
+    float: left;
+    position: relative;
+}
+#g2{
+    margin-top: 10px;
+}
+#g3{
+    position: absolute;
+    right: 78px;
+    top: 5px;
+}
+#zz2{
+    font-size: 12px;
+    color: #006cdb;
+    line-height: 22px;
+    margin-top: 15px;
+}
+#zz3{
+    font-size: 12px;
+    margin-top: 7px ;
+}
+.zz4{
+    color: red;
+    font-size: 12px;
+    margin-top: 10px;
+}
+#sss{
+    color:#9af4eb;
+}
+#esa{
+    position: fixed;
+    /* float: left; */
+    right: 1200px;
+}
+#d1{
+    width: 1003px;
+    height: 48px;
+    float: left;
+}
+.lll{
+    width: 300px;
+    height: 17px;
+    font-size: 12px;
+    color:black;
+    float: left;
+    margin-top: 14px;
+    margin-left: 155px;
+}
+#acd{
+    width: 34px;
+    height: 44px;
+    float: left;
+}
+.aaa1{
+    width: 320px;
+    height: 17px;
+    font-size: 12px;
+    color:black;
+    float: left;
+    margin-top: 14px;
+}
